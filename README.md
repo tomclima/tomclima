@@ -6,7 +6,7 @@
 
 ---
 
-## 🧭 About Me
+## About Me
 
 I'm a computer science student focused on practical security — from **offensive techniques learned through CTFs** to **defensive applications** like hardening, monitoring, and secure deployment.  
 I enjoy exploring how complex systems fail, automating solutions, and continuously improving my technical range.
@@ -15,7 +15,7 @@ Outside security, I’m also drawn to **competitive programming** and low-level 
 
 ---
 
-## 🧰 Tech Stack
+## Tech Stack
 
 **Programming:** Python, C/C++, Java, Bash, SQL, JavaScript  
 **Security Tools:** Burp Suite, pwntools, Nmap, Ghidra, IDA, Wireshark, Binary Ninja, Kali Linux  
@@ -31,6 +31,4 @@ Outside security, I’m also drawn to **competitive programming** and low-level 
 
 ---
 
-> “Security is curiosity with discipline.”  
-> — A principle I try to apply every day.
 
