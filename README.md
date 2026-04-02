@@ -17,7 +17,7 @@ Outside security, I’m also drawn to **competitive programming** and low-level 
 
 ## Tech Stack
 
-**Programming:** Python, C/C++, Java, Bash, SQL, JavaScript  
+**Programming:** Python, C++, Java, Bash, SQL, JavaScript  
 **Security Tools:** Burp Suite, pwntools, Nmap, Ghidra, IDA, Wireshark, Binary Ninja, Kali Linux  
 **Platforms:** Linux (Ubuntu/Debian), Docker, Tailscale
 
