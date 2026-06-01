@@ -13,6 +13,8 @@ I enjoy exploring how complex systems fail, automating solutions, and continuous
 
 Outside security, I’m also drawn to **competitive programming** and low-level tinkering, which feed my curiosity for how things actually work.
 
+If you want to know more about go [check out my blog!](tomclima.github.io)
+
 ---
 
 ## Tech Stack
